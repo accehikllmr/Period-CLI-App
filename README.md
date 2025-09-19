@@ -1,4 +1,5 @@
-Command line interface application to track and predict menstrual cycles based on historical user data.
+# Period-CLI-App
+Command line interface application to track and predict menstrual cycles based on historical user data. 
 
 *** User data is NOT securely stored, as it is in an unencrypted text file. ***
 
